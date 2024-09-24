@@ -5,13 +5,12 @@
 
 - 📫 How to reach me **ejatienza01@gmail.com**
 
-<div align="">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emmanueljustin&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="emmanueljustin's GitHub Stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueljustin&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="emmanueljustin's GitHub Stats" />
 </div>
-
 <div align="center>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanueljustin&theme=blueberry&hide_border=true" alt="emmanueljustin's GitHub Stats" />
 </div>
