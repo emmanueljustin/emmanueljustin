@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emmanuel Justin Atienza</h1>
 <h3 align="center">Software Engineer that focuses on transforming your business ideas into reality.</h3>
 
-- 🌱 I’m currently learning **Laravel API & Docker**
+- 🌱 I’m currently learning **React & Java Springboot API**
 
 - 📫 How to reach me **ejatienza01@gmail.com**
 
